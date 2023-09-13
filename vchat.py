@@ -20,7 +20,7 @@ import base64
 
 
 # openai.api_key = "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"
-openai.api_key = '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' # 990911
+openai.api_key = 'OdsZ2xBsWaQTb' # 990911
 
 def main_page():
     st.set_page_config(page_title='음성비서 프로그램', layout="wide")
